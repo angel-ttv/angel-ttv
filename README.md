@@ -59,8 +59,8 @@ Soy fundador de **Nivara Holding**, un conglomerado multi-división que abarca t
 
 ### 📊 Actividad en GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=angel-ttv&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angel-ttv&theme=default" alt="GitHub streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angel-ttv&show_icons=true&theme=default&count_private=true" alt="GitHub stats" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=angel-ttv&theme=default" alt="GitHub streak" width="48%"/>
 
 ---
 
