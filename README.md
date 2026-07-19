@@ -21,8 +21,7 @@ Emprendedor y desarrollador full-stack construyendo un holding diversificado des
 Soy fundador de **Nivara Holding**, un conglomerado multi-división que abarca tecnología, comercio, biotecnología y contenido digital. También soy diseñador gráfico y creador de contenido gaming, colaborador oficial de **Garena**.
 
 - 🚀 **Founder & CEO** — Nivara Holding (8 divisiones activas y en crecimiento)
-- 📱 **Building:** Storyloop — red social literaria (lanzamiento septiembre 2026)
-- 🎮 **Content Creator** — Free Fire, colaborador oficial Garena
+- 📱 **Building:** Storyloop — red social literaria (lanzamiento diciembre 2026)
 - 🎓 Estudiante en Prepa Riviera, Playa del Carmen, Q. Roo
 - 🌎 Riviera Maya, México
 
@@ -57,12 +56,6 @@ Soy fundador de **Nivara Holding**, un conglomerado multi-división que abarca t
 
 ---
 
-### 📊 Actividad en GitHub
-
-<img src="https://github-stats-extended.vercel.app/api?username=angel-ttv&show_icons=true&theme=default&count_private=true" alt="GitHub stats" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=angel-ttv&theme=default" alt="GitHub streak" width="48%"/>
-
----
 
 <div align="center">
 
