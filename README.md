@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-NIVARA%20HOLDING-000000?style=for-the-badge" alt="Nivara Holding"/>
+<img src="https://img.shields.io/badge/-NIVARA-000000?style=for-the-badge" alt="Nivara"/>
 
 # 👋 Hola, soy Ángel
 
-### Founder & CEO @ Nivara Holding | Building Storyloop
+### Founder & CEO @ Nivara | Startup de IA y marketing
 
 <p>
-Emprendedor y desarrollador full-stack construyendo un holding diversificado desde la Riviera Maya, México 🇲🇽
+Programador que hace vibecode: la IA escribe el código y yo lo dirijo. Construyo agentes de IA, automatización y páginas web para empresas desde Cancún, México 🇲🇽
 </p>
 
+[![Nivara](https://img.shields.io/badge/Nivara-nivara.com.mx-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nivara.com.mx)
 [![Storyloop](https://img.shields.io/badge/Storyloop-storyloop.com.mx-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://storyloop.com.mx)
 
 </div>
@@ -18,27 +19,24 @@ Emprendedor y desarrollador full-stack construyendo un holding diversificado des
 
 ### 🏢 Sobre mí
 
-Soy fundador de **Nivara Holding**, un conglomerado multi-división que abarca tecnología, comercio, biotecnología y contenido digital. También soy diseñador gráfico y creador de contenido gaming, colaborador oficial de **Garena**.
+Soy fundador de **Nivara**, una startup de IA y marketing en Cancún. También soy diseñador gráfico y creador de contenido gaming, colaborador oficial de **Garena**.
 
-- 🚀 **Founder & CEO** — Nivara Holding (8 divisiones activas y en crecimiento)
-- 📱 **Building:** Storyloop — red social literaria (lanzamiento diciembre 2026)
-- 🎓 Estudiante en Prepa Riviera, Playa del Carmen, Q. Roo
-- 🌎 Riviera Maya, México
+- 🚀 **Founder & CEO** — Nivara
+- 🤖 **Agentes de IA** — buscan clientes, los contactan y les arman su web y marketing
+- 📱 **Building:** Storyloop — red social para escritores y lectores
+- 📦 **17 proyectos** públicos en este perfil — software para talleres, barberías, puntos de venta y más
+- 🎓 Ingeniería en Ciberseguridad — Universidad Anáhuac Cancún (en proceso de admisión)
+- 🌎 Cancún, Quintana Roo, México
 
 ---
 
-### 🏗️ Divisiones de Nivara Holding
+### 🏗️ Lo que hace Nivara
 
 | División | Descripción |
 |---|---|
-| 🍬 **Tropigomitas** | Gomitas enchiladas, producción y venta |
-| ✏️ **Papelería Nivara** | Tienda física — apertura Dic 2026 |
-| 🔧 **Nivara Repairs** | Reparación de dispositivos |
-| 💻 **Nivara Dev** | Desarrollo de software y videojuegos |
-| 📈 **Nivara Marketing** | Marketing y contenido |
-| 🧬 **Nivara Biotech** | Innovación biotecnológica |
-| 🛍️ **El Gran Tianguis** | Marketplace multi-vendedor |
-| 📖 **Storyloop** | Red social para escritores |
+| 💻 **Nivara Dev** | Software a medida y agentes de IA |
+| 📖 **Storyloop** | Red social para escritores (gana "Tinta" por escribir) |
+| 📈 **Nivara Marketing** | Páginas web y marketing en Facebook para negocios locales |
 
 ---
 
@@ -55,7 +53,6 @@ Soy fundador de **Nivara Holding**, un conglomerado multi-división que abarca t
 - 🛡️ Digital Security Hackathon Cancún — proyectos "Guardián Universitario" y Storyloop
 
 ---
-
 
 <div align="center">
 
