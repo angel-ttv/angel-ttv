@@ -7,7 +7,7 @@
 ### Founder & CEO @ Nivara | Startup de IA y marketing
 
 <p>
-Programador que hace vibecode: la IA escribe el código y yo lo dirijo. Construyo agentes de IA, automatización y páginas web para empresas desde Cancún, México 🇲🇽
+Construyo agentes de IA, automatización y páginas web para empresas desde Cancún, México 🇲🇽
 </p>
 
 [![Nivara](https://img.shields.io/badge/Nivara-nivara.com.mx-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nivara.com.mx)
